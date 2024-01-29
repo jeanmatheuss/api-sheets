@@ -23,7 +23,8 @@ git clone https://github.com/jeanmatheuss/api-sheets.git
 2. Configure as credenciais da API do Google no console dos  [desenvolvedores](https://console.cloud.google.com/).
 
 3. Crie uma planilha no google sheets. Como esta:
-!(sheets)[img]
+
+![sheets](https://github.com/jeanmatheuss/api-sheets/blob/main/imgs/sheets.jpeg?raw=true)
 
 4. Execute o programa e se caso for o primeiro será necessário autorizar no navegador.
 
