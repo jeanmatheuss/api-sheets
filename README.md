@@ -26,11 +26,12 @@ git clone https://github.com/jeanmatheuss/api-sheets.git
 
 ![sheets](https://github.com/jeanmatheuss/api-sheets/blob/main/imgs/sheets.jpeg?raw=true)
 
-4. Execute o programa e se caso for o primeiro será necessário autorizar no navegador.
+4. Modifique as áreas dentro do programa 'SAMPLE_SPREADSHEET_ID', 'SAMPLE_RANGE_NAME' com as da sua planilha.
+
+5. Execute o programa e se caso for o primeiro será necessário autorizar no navegador.
 
 >OBS: Não disponibilize os arquivos 'client_secret.json' e 'token.json'.
 
-## 
 
 ## Contribuição
 Contribuições são bem-vindas! Sinta-se à vontade para abrir um problema ou enviar um pull request.
