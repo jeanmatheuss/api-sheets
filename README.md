@@ -2,7 +2,7 @@
 
 
 ## Resumo
-Neste projeto usaremos a integração do Python com o Google Sheets, através da API fornecida pelo google. E assim fazer o update diário na planilha do sheets com os valores das ações.
+Neste projeto usaremos a integração do Python com o Google Sheets, através da API fornecida pelo google. E assim fazer o update diário na planilha do sheets com os valores das ações obtidas pelo Yahoo Finance.
 
 Para isso precisamos:
 - Autorizar a API do google;
@@ -31,6 +31,8 @@ git clone https://github.com/jeanmatheuss/api-sheets.git
 5. Execute o [programa](https://github.com/jeanmatheuss/api-sheets/blob/main/program.ipynb) e se caso for o primeiro será necessário autorizar no navegador.
 
 >OBS: Não disponibilize os arquivos 'client_secret.json' e 'token.json'.
+
+>Para mais infos sobre a API do google, este é o [link](https://developers.google.com/sheets/api/quickstart/python?hl=pt-br).
 
 
 ## Contribuição
