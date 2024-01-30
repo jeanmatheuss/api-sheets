@@ -42,9 +42,9 @@ Contribuições são bem-vindas! Sinta-se à vontade para abrir um problema ou e
 <details>
 <summary>Link utéis</summary>
 
-- https://console.cloud.google.com/ 
-- https://developers.google.com/sheets/api/quickstart/python?hl=pt-br 
-- https://pypi.org/project/yfinance/ 
-- https://www.hashtagtreinamentos.com/integracao-do-python-com-google-sheets-python
+- [API Google](https://console.cloud.google.com/) 
+- [Google developers](https://developers.google.com/sheets/api/quickstart/python?hl=pt-br) 
+- [Yahoo Finance](https://pypi.org/project/yfinance/) 
+- [Hastagtreinamentos Google Sheets](https://www.hashtagtreinamentos.com/integracao-do-python-com-google-sheets-python)
 
 </details>
