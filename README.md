@@ -38,3 +38,13 @@ git clone https://github.com/jeanmatheuss/api-sheets.git
 ## Contribuição
 Contribuições são bem-vindas! Sinta-se à vontade para abrir um problema ou enviar um pull request.
 
+
+<details>
+<summary>Link utéis</summary>
+
+- https://console.cloud.google.com/ 
+- https://developers.google.com/sheets/api/quickstart/python?hl=pt-br 
+- https://pypi.org/project/yfinance/ 
+- https://www.hashtagtreinamentos.com/integracao-do-python-com-google-sheets-python
+
+</details>
